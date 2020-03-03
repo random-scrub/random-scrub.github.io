@@ -5,7 +5,7 @@
 
 body {
 font-family: 'TF2';
-background: url(heavy.jpg) no-repeat center center fixed black;
+background: url("https://random-scrub.github.io/heavy.jpg") no-repeat center center fixed;
 background-size: cover;
 color: white;
 }
